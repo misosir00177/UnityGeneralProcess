@@ -11,3 +11,9 @@ In other words, this file can be used in any Unity project and this is also an a
 
 ## 什麼是 "GeneralProcess.cs"？
 "GeneralProcess"意即"通用處理"，此腳本的目的為集結各式通用處理，可於各種不同專案使用，不局限於單一專案。
+
+## Documentation / Wiki
+For example and individually description: [Notion GeneralProcess Docs](https://www.notion.so/misosir00177/C-GeneralProcessor-Documentaion-1ec1f5753c204ecabb0fb831fb9cb561?pvs=4)
+
+## 文檔 / 函式說明與範例
+[Notion GeneralProcess 文檔](https://www.notion.so/misosir00177/C-GeneralProcessor-Documentaion-1ec1f5753c204ecabb0fb831fb9cb561?pvs=4)
