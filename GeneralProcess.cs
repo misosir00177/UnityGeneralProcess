@@ -19,6 +19,16 @@ public class GeneralProcess : MonoBehaviour
 
     }
 
+    /// <summary>
+    /// 針對播放不順利的動畫進行Debug的呼叫專用函式.<br />
+    /// 於2024/11/24重新開啟專案測試時無法順利撥放ProfFu_Damaged，也不確定更改的過的內容<br />
+    /// 因此嘗試製作此函式<br />
+    /// </summary>
+    public void DebugAnimations(string animationName)
+    {
+        Debug.Log(animationName + "Suucess fully played.");
+    }
+
 }
 
 /// <summary>
